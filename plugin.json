@@ -1,0 +1,41 @@
+{
+  "type": "panel",
+  "name": "Network Weathermap",
+  "id": "knightss27-weathermap-panel",
+  "info": {
+    "description": "A simple & sleek network weathermap.",
+    "author": {
+      "name": "Seth Knights",
+      "url": "https://seth.cx"
+    },
+    "keywords": ["network weathermap", "network", "weathermap"],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/knightss27/grafana-network-weathermap"
+      },
+      {
+        "name": "Wiki",
+        "url": "https://grafana-weathermap.seth.cx/"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/knightss27/grafana-network-weathermap/blob/main/LICENSE"
+      }
+    ],
+    "screenshots": [
+      { "name": "General Example", "path": "img/general-example.png" },
+      { "name": "v0.0.2-alpha", "path": "img/v0.0.2-alpha.png" }
+    ],
+    "version": "0.2.8",
+    "updated": "2022-06-16"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=8.0.0",
+    "plugins": []
+  }
+}
